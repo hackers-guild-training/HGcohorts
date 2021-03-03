@@ -5,7 +5,7 @@ Student names added using pull requests by students
 ## Lead Trainer : [Abednego Mwanza](https://github.com/AbednegoTM)
 - Nicholus Mataa
 - Desire Irankunda
-- mandela Tumukunde (https://github.com/mandelatuks)
+- [mandela Tumukunde] (https://github.com/mandelatuks)
 - kamwesha chabula
 - Simasiku Woodley
 
