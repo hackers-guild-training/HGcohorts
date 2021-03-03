@@ -7,5 +7,5 @@ Student names added using pull requests by students
 - Desire Irankunda
 - mandela Tumukunde
 - kamwesha chabula
-- Simasiku Woodley
+- Simasiku Woodley https://github.com/Simasiku-Woodley
 
