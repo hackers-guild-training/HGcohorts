@@ -6,6 +6,6 @@ Student names added using pull requests by students
 - Nicholus Mataa
 - Desire Irankunda
 - mandela Tumukunde
-- kamwesha chabula
+- kamwesha chabula(https://github.com/KamweshaChabula)
 - Simasiku Woodley
 
