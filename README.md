@@ -3,4 +3,5 @@ Student names added using pull requests by students
 
 # COHORT #5 NAMES :
 ## Lead Trainer : Abednego Mwanza
+- kamwesha chabula
 - Simasiku Woodley
