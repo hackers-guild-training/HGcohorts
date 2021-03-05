@@ -6,6 +6,6 @@ Student names added using pull requests by students
 - [Mandela Tumukunde](https://github.com/mandelatuks)
 - [Nicholus Mataa](https://github.com/Nicholus-Matar)
 - [Desire Irankunda](https://github.com/Deewiliams)
-- kamwesha chabula
+- [kamwesha chabula](https://github.com/KamweshaChabula)
 - [Simasiku Woodley](https://github.com/Simasiku-Woodley)
 
